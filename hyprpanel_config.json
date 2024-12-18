@@ -1,0 +1,95 @@
+{
+  "bar.customModules.updates.pollingInterval": 1440000,
+  "theme.font.weight": 600,
+  "theme.font.size": "1rem",
+  "theme.font.name": "JetBrainsMonoNL Nerd Font Mono",
+  "theme.bar.floating": true,
+  "theme.bar.outer_spacing": "0.25em",
+  "theme.bar.location": "top",
+  "menus.clock.time.hideSeconds": false,
+  "menus.clock.weather.enabled": true,
+  "menus.clock.weather.location": "New York",
+  "menus.transition": "crossfade",
+  "bar.clock.format": "%b %d  %I:%M %p",
+  "theme.bar.buttons.clock.spacing": "0.5em",
+  "theme.bar.buttons.clock.enableBorder": false,
+  "theme.bar.menus.menu.dashboard.profile.size": "7em",
+  "menus.bluetooth.showBattery": false,
+  "menus.media.displayTime": true,
+  "notifications.monitor": 0,
+  "theme.matugen": false,
+  "theme.matugen_settings.scheme_type": "content",
+  "theme.matugen_settings.mode": "dark",
+  "wallpaper.image": "/home/warren/Downloads/FW_16_Wallpaper_Black.png",
+  "theme.matugen_settings.variation": "standard_1",
+  "theme.bar.transparent": false,
+  "theme.osd.enable": true,
+  "theme.bar.buttons.systray.enableBorder": false,
+  "menus.dashboard.powermenu.avatar.image": "/home/warren/Downloads/warren.png",
+  "menus.dashboard.powermenu.avatar.name": "neb",
+  "bar.layouts": {
+    "0": {
+      "left": [
+        "dashboard",
+        "systray",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "network",
+        "bluetooth",
+        "battery",
+        "clock",
+        "notifications"
+      ]
+    },
+    "1": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    },
+    "2": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    }
+  },
+  "menus.media.displayTimeTooltip": true,
+  "menus.bluetooth.batteryState": "connected",
+  "bar.bluetooth.label": false,
+  "bar.network.label": false,
+  "bar.launcher.autoDetectIcon": true,
+  "theme.bar.buttons.dashboard.enableBorder": false,
+  "theme.bar.margin_top": "0.35em",
+  "theme.bar.margin_bottom": "0em",
+  "theme.bar.border_radius": "0.4em",
+  "theme.bar.buttons.background_opacity": 100,
+  "theme.bar.opacity": 100,
+  "theme.bar.border.location": "none",
+  "theme.bar.border.width": "0.07em",
+  "theme.bar.buttons.y_margins": "0.4em"
+}
