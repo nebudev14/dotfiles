@@ -2,9 +2,8 @@
 
 heavily inspired by doomscrolling r/unixporn and r/hyprland.
 
-cool rices that i've used in here so far:
+![Screenshot of Arch + Hyprland](/images/preview1.png)
 
-* https://github.com/theCode-Breaker/riverwm/tree/main
-* https://github.com/MathisP75/summer-day-and-night/tree/main
+![Screenshot of Wallpaper](/images/preview2.png)
 
-![Screenshot of Arch + Hyprland](/images/desktop.png)
+
